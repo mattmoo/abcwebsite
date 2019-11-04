@@ -255,3 +255,8 @@ footer.rightgreen {
 .half {
   height: 50%;
 }
+
+
+.implementation_date {
+	text-align: right;
+}
